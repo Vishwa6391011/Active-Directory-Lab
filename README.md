@@ -26,7 +26,9 @@ This project demonstrates the setup and configuration of Active Directory Domain
 ### Group Policy
 - Configured password policy
 - Enabled account lockout
+  
 ### Screenshots
+
 ### Skills Gained
 - Active Directory Administration
 - User Management
