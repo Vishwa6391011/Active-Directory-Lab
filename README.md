@@ -18,18 +18,18 @@ This project demonstrates the setup and configuration of Active Directory Domain
 - VirtualBox / VMware
 
 # Lab Setup
- Domain Setup
+# Domain Setup
 - Created domain: vishwa.local
- Users and Groups
+# Users and Groups
 - Created users and organiztional units (OU)
 - Configured security groups
-  Group Policy
+# Group Policy
 - Configured password policy
 - Enabled account lockout
   
-### Screenshots
+# Screenshots
 
-### Skills Gained
+# Skills Gained
 - Active Directory Administration
 - User Management
 - Windows Server Configuration
